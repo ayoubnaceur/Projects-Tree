@@ -1,5 +1,18 @@
+<?php 
+
+	include 'config.php' ;
+
+	$title= "SAY HELLO" ;
+
+	include 'header.php' ; 
+?>
+
+	<container>
+		body
+	</container>
+
 <?php
-	include 'header.php' ;
- 	include 'bodyer.php' ;
- 	include 'footer.php' ; 
+
+	include 'footer.php' ; 
+
 ?>

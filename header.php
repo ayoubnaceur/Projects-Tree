@@ -1,9 +1,7 @@
-<?php include 'config.php' ; ?>
-
 <!DOCTYPE html>
 <html lang="ar" >
 <head>
-	<title>SAY 'Hello'</title>
+	<title><? echo $title; ?></title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Free Web tutorials">
 	<meta name="keywords" content="HTML,CSS,XML,JavaScript">
@@ -14,6 +12,7 @@
 	<script type="text/javascript" src="file/style/JavaScript/srcipt.js"></script>
 </head>
 <body>
-	<header>
-		header
-	</header>
+	<navbar>
+		navbar
+	</navbar>
+	

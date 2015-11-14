@@ -1,3 +1,0 @@
-	<bodyer>
-		bodyer
-	</bodyer>
